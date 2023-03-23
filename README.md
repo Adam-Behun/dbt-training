@@ -1,3 +1,7 @@
+# DBT Fundamentals course 
+- March 2023
+## Analytics Enginering
+
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
